@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hii 👋 I'm Priyanshu kumar<br># 💫 About Me: I'm Currently Working on Android App Development<br>I'm Currently Learning React js and node js
+<b> Hii 👋 I'm Priyanshu kumar</b><br># 💫 About Me: I'm Currently Working on Web development<br>I'm Currently Learning React js and node js
 
 
 ## 🌐 Socials:
