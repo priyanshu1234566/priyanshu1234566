@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA,Java,Front-end Development,**
 
-- 📫 How to reach me **priyanshukumar2004panipat@gmail.com**  For Collaboration/Project or Anything Else. 😊😊
+- 📫 How to reach me **priyanshukumar2004panipat@gmail.com** <br> For Collaboration/Project or Anything Else. 😊😊
 
 - 😄 **Pronouns:** Priyanshu Sir
 
