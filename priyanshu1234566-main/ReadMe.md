@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/priyanshu1234566/priyanshu1234566/blob/main/Yellow%20%26%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **priyanshukumar2004panipat@gmail.com**
 
-
+- ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
