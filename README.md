@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **priyanshukumar2004panipat@gmail.com**  For Collaboration/Project or Anything Else. 😊😊
 
+- 😄 **Pronouns:** Priyanshu Sir
+
 - ⚡ Fun fact **I am funny😅**
 
   ## 🔗 I am a Content Creator. 😊😊
