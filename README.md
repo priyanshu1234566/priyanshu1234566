@@ -36,6 +36,8 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
@@ -47,5 +49,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu1234566&" alt="priyanshu1234566" /></p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
