@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu1234566&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu1234566" /> </p>
 
 <p align="left"> <a href="https://twitter.com/priyanshuk33564" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshuk33564?logo=twitter&style=for-the-badge" alt="priyanshuk33564" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/alone_in_life_823?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img src="<p align="left"> <a href="https://twitter.com/priyanshuk33564" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshuk33564?logo=twitter&style=for-the-badge" alt="priyanshuk33564" /></a> </p>
+" alt="priyanshuk33564" /></a> </p>
 
 - 🌱 I’m currently learning **DSA,Java,Front-end Development,**
 
