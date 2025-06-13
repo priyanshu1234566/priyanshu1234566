@@ -41,6 +41,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu1234566&" alt="priyanshu1234566" /></p>
 
+## 🐍 Snake Game
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
