@@ -109,8 +109,10 @@ I am funny 😅
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=priyanshu1234566&theme=radical&no-frame=true)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu1234566&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
 ---
 
 ## 📈 GitHub Stats
